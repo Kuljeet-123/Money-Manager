@@ -8,11 +8,11 @@ It can be used as a base platform for any CodeIgniter project
 
 ### Screenshots 
 
-![Home Page](http://www.webprojectbuilder.com/assets/home_images/expense-management-screenshots/2-expense-management-list-expense.png)
+![Home Page](https://github.com/Kuljeet-123/Money-Manager/blob/master/images/home.png)
 
-![Login Page](http://www.webprojectbuilder.com/assets/home_images/expense-management-screenshots/7-expense-management-expense-category-list.png)
+![Login Page](https://github.com/Kuljeet-123/Money-Manager/blob/master/images/login.png)
 
-![Signup Page](http://www.webprojectbuilder.com/assets/home_images/expense-management-screenshots/Installation.png)
+![Signup Page](https://github.com/Kuljeet-123/Money-Manager/blob/master/images/signup.png)
 
 
 
